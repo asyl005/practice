@@ -1,0 +1,19 @@
+body{
+    background-color: lightgray;
+}
+.blye {
+    color: blue;
+}
+.fon{
+    color: gray;
+}
+h1{
+    font-family: Arial;
+}
+h2{
+    font-size: 24px;
+}
+.block_1{
+    border: 2px solid black;
+    color: rgb(62, 84, 103);
+}
