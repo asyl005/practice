@@ -1,0 +1,31 @@
+button{
+    width: 100px;
+    height: 30px;
+    background-color: aqua;
+    border-color: blue;
+    border-radius: 20px ;
+}
+button:hover{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    border-color: rgb(0, 64, 0);
+    border-radius: 20px ;
+}
+.border15{
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+    
+}
+p:not(.border15 p){
+    border: 2px black;
+    color: blueviolet;
+    margin: 20px;
+}
+span{
+    display: none;
+}
+h3{
+    color: rgb(129, 129, 116);
+}
