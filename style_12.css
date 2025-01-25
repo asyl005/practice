@@ -1,0 +1,44 @@
+body{
+    background-color:azure;
+    font-size: 12px;    
+}
+li:nth-child(2) {
+    color: red;
+}
+h3::before{
+    content: "Важно: ";
+}
+div{
+    opacity: 0.7;
+}
+section{
+    background-image: url("https://www.shutterstock.com/image-photo/calm-weather-on-sea-ocean-600nw-2212935531.jpg");
+    height: 20px;
+    color: rgb(57, 76, 93);
+}
+.coco{
+    border: 1px solid lightcoral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 30px;
+    box-shadow: 2px 2px 5px;
+}
+h1{
+    color: green;
+    text-shadow: 2px 2px 5px;
+}
+a{
+    text-decoration: none;
+    color: rgb(230, 167, 50);
+}
+.fix{
+    border: 2px solid blueviolet;
+    background-color: rgb(198, 174, 199);
+    width: 300px;
+    height: 30px;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+}
