@@ -1,6 +1,6 @@
-.section1{
+.s1{
     background-color: var(--bg-main-gray);
-    padding: 63px;
+    padding: 30px;
 }
 .text-j{
     text-align: justify;
@@ -8,8 +8,12 @@
 section p:nth-of-type(2)::after{
     content: "";
     display: block;
-    width: 420px;
+    width: 53%;
     height: 2px;
     background-color: var(--font-color-main);
     margin: 22px auto;
 }
+.max{
+    max-width: 780px;
+}
+
