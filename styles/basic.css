@@ -15,9 +15,17 @@ a{
     text-decoration: none;
     color: unset;
 }
+h1 {
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin: 0;
+    padding: 0;
+}
 .container {
     margin: 0 auto;
-    max-width: 950px;
+    max-width: 970px;
     padding: 0 10px;
 }
 
