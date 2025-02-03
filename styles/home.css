@@ -1,3 +1,9 @@
+.image{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 70px;
+    margin-top: 40px;
+}
 .s1{
     background-color: var(--bg-main-gray);
     padding: 30px;

@@ -20,19 +20,4 @@ a{
     max-width: 950px;
     padding: 0 10px;
 }
-h1{
-    font-size: 45px;
-    font-weight: 700;
-    margin-bottom: 25px;
-}
-h2{
-    font-size: 34px;
-    font-weight: 700;
-}
-.maint{
-    font-size: 18px;
-    font-weight: 500;
-}
-.text-center{
-    text-align: center;
-}
+
