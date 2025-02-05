@@ -22,6 +22,11 @@
     font-weight: 500;
     margin: auto;
 }
+.icons{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
 .ii{
     max-width: 350px;
     height: 65px;
