@@ -28,7 +28,7 @@
     gap: 30px;
 }
 .ii{
-    max-width: 350px;
+    width: 65px;
     height: 65px;
     object-fit: cover;
     margin: 38px 0 34px 0;
@@ -38,4 +38,20 @@
     font-weight: 500;
     margin: 0 auto;
     max-width: 260px;
+    color: var(--font-color-gray);
+}
+@media (max-width: 480px){
+    .footer{
+        padding: 60px 40px 125px 40px;
+    }
+    .icons{
+        gap: 25px;
+    }
+    .ii{
+        width: 55px;
+        height: 55px;
+    }
+    .footer-description{
+        font-size: 14px;
+    }
 }

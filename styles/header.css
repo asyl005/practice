@@ -24,3 +24,8 @@
 .nav-link:hover{
     color: var(--font-color-main);
 }
+@media (max-width: 480px) {
+    .header{
+        display: none;
+    }
+}
